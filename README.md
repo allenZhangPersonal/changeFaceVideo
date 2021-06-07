@@ -21,6 +21,12 @@ Edit buttonHandler.cs script under echoAR gameobject and make sure to add the 'n
 ## Build & Run
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application). Verify that the `Assets\Scenes\faceSwap` scene is ticked in the `Scenes in Build` list and click `Build And Run`.
 
+## Instructions
+
+Switch face mesh video through UI arrow buttons on the bottom of the screen.
+
+Switch face mesh video through leaving the screen and re-entering the screen or covering your face and uncovering your face.
+
 ## Learn more
 Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about how to use Unity and echoAR.
 
@@ -35,3 +41,5 @@ Videos
 
 Metadata
 ![metadata](https://user-images.githubusercontent.com/85501187/121057656-7c9e5700-c78d-11eb-8dac-b3bac4d7826f.JPG)
+
+Demo created by [Allen Zhang](https://github.com/allenZhangPersonal)
