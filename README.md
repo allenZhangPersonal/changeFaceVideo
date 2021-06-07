@@ -14,9 +14,9 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 
 ## Use own videos
 
-Edit buttonHandler.cs script under echoAR gameobject and make sure to add the name property in your .csv file into the string array 'videos'
+Create your own csv file per video and follow the same format as the metadata provided for this demo.
 
-Create your own csv file and follow the same format as the metadata provided for this demo.
+Edit buttonHandler.cs script under echoAR gameobject and make sure to add the 'name' property in your .csv file into the string array 'videos'
 
 ## Build & Run
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application). Verify that the `Assets\Scenes\faceSwap` scene is ticked in the `Scenes in Build` list and click `Build And Run`.
