@@ -1,5 +1,5 @@
 # changeFaceVideo
-Simple face swapping demo utilizing mp4 videos with Unity, AR Foundation, and echoAR
+Simple face swapping demo utilizing mp4 videos with Unity, AR Foundation, and echoAR implemented in Unity 2019.4.26f1
 
 ## Register
 Don't have an API key? Make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
