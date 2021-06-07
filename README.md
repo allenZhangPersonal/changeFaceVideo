@@ -12,6 +12,12 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 * [Add the videos](https://docs.echoar.xyz/quickstart/add-a-3d-model) from the [videos](/Assets/Videos) folder to the console.
 * [Add all the metadata](https://docs.echoar.xyz/web-console/manage-pages/data-page/how-to-add-data#adding-metadata) listed in the [metadata](/Assets/metadata) folder.
 
+## Use own videos
+
+Edit buttonHandler.cs script under echoAR gameobject and make sure to add the name property in your .csv file into the string array 'videos'
+
+Create your own csv file and follow the same format as the metadata provided for this demo.
+
 ## Build & Run
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application). Verify that the `Assets\Scenes\faceSwap` scene is ticked in the `Scenes in Build` list and click `Build And Run`.
 
@@ -22,7 +28,10 @@ Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about
 Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
 
 ## Screenshots
+Demo
+
 Videos
 ![models](https://user-images.githubusercontent.com/85501187/121057692-8a53dc80-c78d-11eb-8e87-982a5307d2b3.JPG)
+
 Metadata
 ![metadata](https://user-images.githubusercontent.com/85501187/121057656-7c9e5700-c78d-11eb-8dac-b3bac4d7826f.JPG)
